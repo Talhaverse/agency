@@ -1,14 +1,14 @@
 {
-	"name": "Talhaverse HQ",
+	"name": "Talhaverse",
 	"logo": "",
 	
 	"username": {
-		"github": "atlamors",
-		"medium": "@--andrewnelson"
+		"github": "talhaverse",
+		"medium": "@talhaverse"
 	},
 
 	"portfolio": { 
-		"forkthis": "Steal this theme! Its open-source 🥰",
+		"message": "Thanks for the visit 🥰",
 		"repo_html": "https://www.github.com/atlamors/portfolio",
 		"repo_api": "https://api.github.com/repos/atlamors/portfolio"
 	}

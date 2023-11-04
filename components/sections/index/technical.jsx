@@ -43,7 +43,7 @@ export default function Technical() {
 						/>
 						<BadgesBlock 
 							title="Software I love to work with" 
-							copy="With over 20 years of experience creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
+							copy="With over 1 year of experience creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
 							list={software}
 							block="software" 
 							fullContainer="fullContainer"
@@ -53,7 +53,7 @@ export default function Technical() {
 						/>
 						<BadgesBlock 
 							title="Technologies I love to build with" 
-							copy="I deeply enjoy solving problems through code. From the front end all the way to the back end and the APIs in-between. No project is too challenging for me."
+							copy="I deeply enjoy solving problems through code. From the front end all the way to the back end and the APIs in-between.Even if it is new for me I can manage to learn it proactively over time with the best use of tools like chatGPT and google. No project is too challenging for me."
 							list={tech} 
 							block="tech"
 							fullContainer="fullContainer" 
@@ -73,15 +73,15 @@ export default function Technical() {
 }
 
 const software = [
-	{ key: 'photoshop', 	name: 'Photoshop', 			type: 'devicon' },
-	{ key: 'illustrator', 	name: 'Illustrator', 		type: 'devicon' },
+	{ key: 'canva', 	    name: 'Canva', 			type: 'devicon' },
+	{ key: 'xcode', 	name: 'Xcode', 		type: 'devicon' },
 	{ key: 'figma', 		name: 'Figma', 				type: 'devicon' },
 	{ key: 'vscode', 		name: 'VSCode', 			type: 'devicon' },
 	{ key: 'mailbox', 		name: 'Postman', 			type: 'fas' },
-	{ key: 'computer-mouse',name: 'Click Up', 			type: 'fas' },
-	{ key: 'list-music',	name: 'Ableton', 			type: 'fas' },
-	{ key: 'aftereffects',	name: 'After Effects', 		type: 'devicon' },
-	{ key: 'premierepro',	name: 'Premiere Pro', 		type: 'devicon' },
+	{ key: 'androidstudio',name: 'Android Studio', 			type: 'devicon' },
+	{ key: 'trello',	name: 'Trello', 			type: 'devicon' },
+	{ key: 'wordpress',	name: 'Wordpress', 		type: 'devicon' },
+	{ key: 'google',	name: 'Google', 		type: 'devicon' },
 ]
 
 const tech	= [
@@ -90,8 +90,8 @@ const tech	= [
 	{ key: 'react', 		name: 'React', 				type: 'devicon' },
 	{ key: 'nextjs', 		name: 'NextJS', 			type: 'devicon' },
 	{ key: 'jquery', 		name: 'jQuery', 			type: 'devicon' },
-	{ key: 'php', 			name: 'PHP', 				type: 'devicon' },
-	{ key: 'wordpress', 	name: 'WordPress', 			type: 'devicon' },
+	{ key: 'react', 		name: 'reactnative', 				type: 'devicon' },
+	{ key: 'nodejs', 	name: 'Nodejs', 			type: 'devicon' },
 	{ key: 'woocommerce', 	name: 'WooCommerce', 		type: 'devicon' },
 	{ key: "google",		name: "GA4/GTM", 			type: "devicon" },
 	{ key: 'html5', 		name: 'HTML5', 				type: 'devicon' },

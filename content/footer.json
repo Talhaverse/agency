@@ -1,50 +1,50 @@
 {
 	"acknowledgments": [
 		{ 
-			"person": "Jihad Hassan - Marketing Director",
-			"link": "",
+			"person": "Adeel Ali - CTO InnovationHub",
+			"link": "https://innovationhub.pro/",
 			"note": "Thank you for all the advice and feedback."
 		},
 		{ 
-			"person": "Colorpong - Artist",
-			"link": "ttps://www.youworkforthem.com/designer/536/colorpong?aff=1115",
-			"note": "Checkout their amazing vector illustrations."
+			"person": "Jamie - Founder",
+			"link": "https://www.twig-pro.com/",
+			"note": "Amazing to work with you"
 		},
 		{ 
-			"person": "Brittany Chiang - Software Engineer",
-			"link": "https://brittanychiang.com/",
-			"note": "A major inspiration to create an open source theme."
+			"person": "Robbie - CEO",
+			"link": "",
+			"note": "A major inspiration to create a startup"
 		},
 		{ 
-			"person": "Vercel - Platform",
-			"link": "https://vercel.com/docs",
-			"note": "Host your own Next.js project for free!"
+			"person": "Jibran - Founder",
+			"link": "https://www.linkedin.com/in/jibraantahir/",
+			"note": "Co-Founder at Sayyo "
 		}
 	],
 
 	"links": [
 		{ 
-			"person": "YWFT Creative Marketplace",
-			"link": "https://www.youworkforthem.com/?aff=1115",
-			"note": "Best in class creative assets."
+			"person": "Axiseos - A Digital Agency",
+			"link": "https://axiseos.com/",
+			"note": "Best in class agency for logos, websites and apps"
 		}
 	],
 
 	"social": [
 		{
-			"url": "https://medium.com/@--andrewnelson",
+			"url": "https://medium.com/@talhaverse",
 			"icon": "medium"
 		},
 		{
-			"url": "https://dev.to/andrewnelson",
-			"icon": "dev"
+			"url": "https://blog.talhaverse.com/",
+			"icon": "hashnode"
 		},
 		{
-			"url": "https://www.linkedin.com/in/--andrewnelson/",
+			"url": "https://www.linkedin.com/in/syed-talha-ahmed-bb236b158/",
 			"icon": "linkedin"
 		},
 		{
-			"url": "https://github.com/atlamors",
+			"url": "https://github.com/Talhaverse",
 			"icon": "github"
 		}
 	]

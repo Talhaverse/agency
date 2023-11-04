@@ -12,20 +12,20 @@
 
 	"header": {
 		"name": "Talhaverse",
-		"usp": "We design and build meaningful experiences."
+		"usp": "I design and build meaningful experiences."
 	},
 
-	"paragraph": "We are a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
 
 	"buttons": {
 		"primary": {
 			"title": "Contact Me",
-			"url": "",
+			"url": "mailto:stalha247@gmail.com?subject=Introduction",
 			"leaveSite": false
 		},
 		"secondary": {
 			"title": "LinkedIn",
-			"url": "",
+			"url": "https://www.linkedin.com/in/syed-talha-ahmed-bb236b158/",
 			"leaveSite": "true"
 		}
 	}
