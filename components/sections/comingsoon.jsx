@@ -7,7 +7,7 @@ export default function ComingSoon() {
 	return (
 		<Section classProp={css.hasBg}>	
 			<Container>
-				<h2 className="fullHeight centered">Coming Soon!</h2>
+				<h2 className="fullHeight centered">Currently in research phase, will share Soon!</h2>
 				<style jsx>{`
 				.fullHeight {
 					min-height: 500px;

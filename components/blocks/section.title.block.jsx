@@ -16,7 +16,8 @@ export default function SectionTitle({ preTitle, title, subTitle }) {
 		<div className={`${section.title}`}>
 			<h4>{preTitle}</h4>
 			<h2>{title}</h2>
-			<p className="subtitle">{subTitle}</p>
+			<h3 className="subtitle">{subTitle}</h3>
+
 		</div>
 		</>
 	)

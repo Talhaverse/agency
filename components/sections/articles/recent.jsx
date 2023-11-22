@@ -19,9 +19,14 @@ export default function Recent({ mediumArticles }) {
 				<SectionTitle
 					title="Recent Articles"
 					preTitle="Informative"
-					subTitle="A personal quest to become a better creative writer."
+				    subTitle= "Meet the writer in me"
+					
 				/>
+				
+
+
 				<section className={css.projects}>
+					
 					{
 					articles.map( ({ title, pubDate, link, author, thumbnail, categories }, index) => {
 						const date = new Date(pubDate).toDateString()
@@ -47,8 +52,12 @@ export default function Recent({ mediumArticles }) {
 									})
 									}
 								</span>
+								<h4 style={{textAlign: 'center'}}>Read more of my articles by clicking <a style={{textDecoration:"underline"}} href="http://blog.talhaverse.com">Here!</a></h4>
+
 							</article>
+							
 							</>
+							
 						)
 					})
 					}

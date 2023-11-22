@@ -72,7 +72,7 @@ export default function Footer() {
 					</ul>
 				</section>
 				<section className={css.github}>
-					<a href={settings.portfolio.repo_html} rel="noreferrer" target="_blank">
+					<a href={settings.portfolio.repo_htm} rel="noreferrer" target="_blank">
 						<h5>{settings.portfolio.message}</h5>
 						{/* <ul>
 							<li>
