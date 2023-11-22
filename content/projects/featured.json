@@ -1,16 +1,16 @@
 [
 	{
 		"project": "Sayyo",
-		"url": "",
+		"url": "https://www.figma.com/file/D1boPHeYhhXRZnUBvIocoX/Sayyo?type=design&node-id=1%3A6161&mode=design&t=bDm2HuK1GMipNldh-1",
 		"repo": "Private",
 		"descriptionTitle": "tinder for talent & recruiters 🔗",
 		"description": "with elegant solutions for a complex codebase and customer journey.",
 		"imageOptions": [
 		],
 		"images": [
-			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
-			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
-			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/sayyoo3.png" },
+			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "956", "url": "/img/msc-mock_stack/sayyo3.png" },
+			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/sayyo1.png" }
 		],
 		"stack": [
 			{ "key": "react", 		"name": "reactnative", 			"type": "devicon" },
@@ -28,7 +28,7 @@
 	},
 	{
 		"project": "TwigPro",
-		"url": "https://www.twig-pro.com/",
+		"url": "https://www.twigpro.com/",
 		"repo": "Private",
 		"descriptionTitle": "A Services Marketplace",
 		"description": "Twigpro is a services marketplace. It instantly finds the best local service professionals for you.",
@@ -36,7 +36,7 @@
 			{ "key": "size", 		"value": "large" }
 		],
 		"images": [
-			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "456",  "url": "/img/twigpro1.png" }
 		],
 		"stack": [
 			{ "key": "php", 		"name": "Php", 		"type": "devicon" },
