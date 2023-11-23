@@ -1,9 +1,13 @@
+// next.config.js
+    
+
+
 module.exports = {
 	reactStrictMode: true,
-	env: {
-		dir: '/',
-	},
+	
 	images: {
+		loader:'akamai',
+		path:'',
 		remotePatterns: [
 			{
 				protocol: 'https',
@@ -25,16 +29,8 @@ module.exports = {
 				hostname: '**.shields.io',
 				pathname: '/github/**'
 			},
-			{
-				protocol: 'https',
-				hostname: '**.githubusercontent.com',
-				pathname: '/**'
-			},
-			{
-				protocol: 'https',
-				hostname: '**.medium.com',
-				pathname: '/**'
-			},
+			
+			
 		],
 	},
 }
